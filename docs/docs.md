@@ -78,8 +78,7 @@ A implementação segue as etapas principais descritas abaixo:
      P(d) = \frac{1}{\sqrt{2\pi}\sigma} e^{-\frac{d^2}{2\sigma^2}}
      $$
 
-$$
-- Escolha uniformemente dentro do raio usando coordenadas do grafo.
+   - Escolha uniformemente dentro do raio usando coordenadas do grafo.
 
 5. **Visualização dos Resultados:**
    - Use `matplotlib` ou `folium` para criar mapas interativos.
@@ -96,4 +95,3 @@ Após a implementação, as corridas simuladas podem ser visualizadas em mapas i
 Além disso, as corridas geradas podem ser exportadas para arquivos `.csv` para uso em modelos de treinamento.
 
 ---
-$$
